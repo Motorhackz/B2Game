@@ -9,3 +9,4 @@ Ce package contient :
 - la navigation est à reproduire localement !
 - une série de scripts et assets autour du thème de la classe
 - un système d'armes, prefabs
++ système de pooling générique à implémenter
